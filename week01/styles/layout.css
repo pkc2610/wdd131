@@ -15,7 +15,7 @@ body {
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
-header {
+head {
     background: lightpink;
     padding: 2rem;
     grid-column: 1 / 4;
