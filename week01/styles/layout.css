@@ -49,5 +49,5 @@ head {
   .left-sidebar,
 .right-sidebar {
   padding: 1rem;
-  flex: auto;
+  flex: 1;
 }
