@@ -1,4 +1,8 @@
 html {
     background-color: #aaff;
+}
+
+nav {
     font-family: 'Courier New', Courier, monospace;
+    border-color: #a2b322;
 }
