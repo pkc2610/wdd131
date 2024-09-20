@@ -1,7 +1,17 @@
 header {
     border: 5px solid gold;
+    font-family: cursive;
 }
 
 body {
     background-color: rgb(255, 173, 196);
+}
+
+nav {
+    background-color: rgb(255, 172, 255);
+    text-align: center;
+}
+
+.description {
+    text-align: center;
 }
