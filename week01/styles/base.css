@@ -1,6 +1,6 @@
 header {
     border: 5px solid gold;
-    font-family: cursive;
+    font-family: old-standard-tt-regular;
 }
 
 body {
@@ -27,3 +27,9 @@ main {
     margin-left: 30%;
     margin-right: 30%;
 }
+
+.old-standard-tt-regular {
+    font-family: "Old Standard TT", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
