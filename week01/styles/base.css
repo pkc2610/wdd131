@@ -1,10 +1,12 @@
 header {
     border: 5px solid gold;
-    font-family: old-standard-tt-regular;
 }
 
 body {
     background-color: rgb(255, 173, 196);
+    font-family: "Old Standard TT", serif;
+    font-weight: 400;
+    font-style: normal;
 }
 
 nav {
@@ -26,10 +28,5 @@ main {
     max-width: 300px;
     margin-left: 30%;
     margin-right: 30%;
+    display: grid;
 }
-
-.old-standard-tt-regular {
-    font-family: "Old Standard TT", serif;
-    font-weight: 400;
-    font-style: normal;
-  }
