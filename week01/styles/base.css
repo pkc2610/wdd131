@@ -29,4 +29,13 @@ main {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     row-gap: 1.5rem;
+    border: 3px solid rgb(180, 157, 248);
+}
+
+footer {
+    text-align: center;
+}
+
+.another-header {
+    background-color: rgb(236, 196, 240);
 }
