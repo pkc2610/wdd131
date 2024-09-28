@@ -28,7 +28,7 @@ main {
     display: inline-grid;
     max-width: 100%;
     padding: 5px;
-    grid-template-columns: repeat(2, calc(50% - 0.25rem));
+    grid-template-columns: calc(63% - 0.25rem) calc(37% - 0.25rem);
     grid-template-rows: auto;
     row-gap: 1.5rem;
     column-gap: .5rem;
@@ -49,4 +49,12 @@ footer {
 
 .another-header {
     background-color: rgb(236, 196, 240);
+}
+
+h1 {
+    font-size: x-large;
+}
+
+h2 {
+    font-size: large;
 }
