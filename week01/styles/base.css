@@ -85,6 +85,10 @@ h2 {
 }
 
 img {
-    height: 150px;
+    vertical-align: top;
+}
+
+.wordsdiv {
+    text-align: right;
 }
 
